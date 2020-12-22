@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="404a801d-2c8a-48f9-ad2a-abb09bd0c8fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/ams-cse/ReactJS__emoji-mapping-component.git" />
+        <option value="https://github.com/ams-cse/ReactJS_emoji-mapping-components-.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lhpjUHQ2teFWFsi9ZOeTLpMsrQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../00000000000000000000/emoji/mapping-components-practice" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\shovo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="404a801d-2c8a-48f9-ad2a-abb09bd0c8fe" name="Default Changelist" comment="" />
+      <created>1608059312153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608059312153</updated>
+      <workItem from="1608059313454" duration="2332000" />
+      <workItem from="1608631316020" duration="1812000" />
+      <workItem from="1608636092250" duration="1306000" />
+      <workItem from="1608637659577" duration="219000" />
+      <workItem from="1608638011846" duration="944000" />
+    </task>
+    <task id="LOCAL-00001" summary="commited">
+      <created>1608636789533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608636789534</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commited" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="284" y="0" key="CommitChangelistDialog2" timestamp="1608637317194">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="284" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1608637317194" />
+    <state x="129" y="56" key="DiffContextDialog" timestamp="1608636471848">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="129" y="56" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1608636471848" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1608632467521">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1608632467521" />
+    <state x="484" y="267" key="Github.ShareDialog" timestamp="1608638915087">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="484" y="267" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1608638915087" />
+    <state x="427" y="67" key="Github.UntrackedFilesDialog" timestamp="1608638941862">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="427" y="67" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1608638941862" />
+    <state x="571" y="237" width="389" height="264" key="MultipleFileMergeDialog" timestamp="1608636827015">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="571" y="237" width="389" height="264" key="MultipleFileMergeDialog/0.0.1366.738@0.0.1366.738" timestamp="1608636827015" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1608638907752">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1608638907752" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1608637032434">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1608637032434" />
+    <state x="389" y="103" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1608637111370">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="389" y="103" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.738@0.0.1366.738" timestamp="1608637111370" />
+  </component>
+</project>
