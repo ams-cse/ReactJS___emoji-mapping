@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="404a801d-2c8a-48f9-ad2a-abb09bd0c8fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/emojipedia.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../00000000000000000000/emoji/mapping-components-practice" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -58,7 +58,7 @@
       <workItem from="1608631316020" duration="1812000" />
       <workItem from="1608636092250" duration="1306000" />
       <workItem from="1608637659577" duration="219000" />
-      <workItem from="1608638011846" duration="944000" />
+      <workItem from="1608638011846" duration="1132000" />
     </task>
     <task id="LOCAL-00001" summary="commited">
       <created>1608636789533</created>
@@ -67,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608636789534</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore">
+      <created>1608638977844</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608638977844</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore">
+      <created>1608639124665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608639124665</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,10 +104,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="284" y="0" key="CommitChangelistDialog2" timestamp="1608637317194">
+    <state x="284" y="0" key="CommitChangelistDialog2" timestamp="1608639123554">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="284" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1608637317194" />
+    <state x="284" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1608639123554" />
     <state x="129" y="56" key="DiffContextDialog" timestamp="1608636471848">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -118,13 +132,17 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1608638907752" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1608637032434">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1608639128193">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1608637032434" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1608639128193" />
     <state x="389" y="103" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1608637111370">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="389" y="103" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.738@0.0.1366.738" timestamp="1608637111370" />
+    <state x="448" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608639053286">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="448" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.738@0.0.1366.738" timestamp="1608639053286" />
   </component>
 </project>
